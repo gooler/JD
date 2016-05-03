@@ -271,7 +271,6 @@ img{
 	width: 703px;
 	height: 454px;
 	position: absolute;
-	background: yellow;
 	cursor: pointer;
 	overflow: hidden;
 }
@@ -305,7 +304,7 @@ img{
 	text-align: center;
 }
 .bannerdianBox .hot{
-	background: red;
+	/*background: red;*/
 }
 .Bcelan{
 	width: 100%;
@@ -387,7 +386,7 @@ img{
 	font-weight: bold;
 }
 .main1RC1C a:hover{
-	color: 3B1191A
+	color: #B1191A
 }
 .shenghuo{
 	width: 266px;
@@ -681,7 +680,7 @@ img{
 .main4-B3{
 	width: 402px;
 	height: 405px;
-	background: green;
+	/*background: green;*/
 	float: left;
 	border: 1px solid #d1d1d1;
 	border-right:none;
@@ -691,7 +690,7 @@ img{
 .main4-B4{
 	width: 168px;
 	height: 405px;
-	background: red;
+	/*background: red;*/
 	float: left;
 	border: 1px solid #d1d1d1;
 	overflow: hidden;
@@ -755,7 +754,7 @@ img{
 .main4-B7{
 	width: 227px;
 	height: 156px;
-	background: red;
+	/*background: red;*/
 	border-right: 1px solid #d1d1d1;
 	float: left;
 	overflow: hidden;
@@ -1360,7 +1359,7 @@ img{
 .main2BoxL{
 	width: 210px;
 	height: 100%;
-	background: red;
+	/*background: red;*/
 	float: left;
 	position: relative;
 }
@@ -1451,7 +1450,7 @@ img{
 	width: 1000px;
 	height: 100%;
 	float: left;
-	background:yellow; 	
+	/*background:yellow; 	*/
 	position: relative;
 }
 .main2BoxRC{
@@ -1611,7 +1610,7 @@ img{
 .bottomkuai{
 	width: 1200px;
 	height: 110px;
-	background: red;
+	/*background: red;*/
 	margin: 20px auto; 
 	overflow: hidden;
 }
@@ -1740,7 +1739,7 @@ img{
 .main3BoxL{
 	width: 330px;
 	height: 100%;
-	background: red;
+	/*background: red;*/
 	float: left;
 }
 .main3BoxR{
@@ -1836,7 +1835,7 @@ img{
 	color: black;
 }
 .main3dian .hot{
-	background: red;
+	/*background: red;*/
 	color: #fff;
 }
 .main3BoxRB1-2{
@@ -1917,20 +1916,20 @@ img{
 .main6Box{
 	width: 1210px;
 	height: 474px;
-	background: red;
+	/*background: red;*/
 	margin: 0px auto;
 }
 .main6BoxL{
 	width: 210px;
 	height: 100%;
-	background: yellow;
+	/*background: yellow;*/
 	float: left;
 	position: relative;
 }
 .main6BoxR{
 	width: 1000px;
 	height: 100%;
-	background: green;
+	/*background: green;*/
 	float: left;
 	position: relative;
 }
@@ -2031,7 +2030,7 @@ img{
 	text-align: center;
 }
 .main6dian:hover{
-	background: red;
+	/*background: red;*/
 	color: #fff;
 }
 /*.hot8{
@@ -2121,7 +2120,7 @@ img{
 	margin-top: 10px;
 }
 .main10BoxRC2-2 .hot10{
-	background: red;
+	/*background: red;*/
 }
 .main10BoxRC2-3{
 	width: 100%;
@@ -2203,7 +2202,7 @@ img{
 	position: absolute;
 	right: 0px;
 	top: 48px;
-	background: red;
+	/*background: red;*/
 }
 .main10BoxRC3-31{
 	width: 100%;
